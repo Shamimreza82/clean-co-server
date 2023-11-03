@@ -1,0 +1,230 @@
+[
+    {
+        "service_name": "Regular Cleaning",
+        "price": 45,
+        "short_description": "Standard cleaning service for homes and offices.",
+        "feature": "Flexible scheduling options available."
+    },
+    {
+        "service_name": "Deep Cleaning",
+        "price": 50,
+        "short_description": "Thorough cleaning including hard-to-reach areas and intensive scrubbing.",
+        "feature": "Uses eco-friendly and non-toxic cleaning products."
+    },
+    {
+        "service_name": "Deep Cleaning",
+        "price": 55,
+        "short_description": "Professional cleaning for carpets, removing tough stains and dirt.",
+        "feature": "Utilizes steam cleaning for a deeper and more effective cleanse."
+    },
+    {
+        "service_name": "Regular Cleaning",
+        "price": 60,
+        "short_description": "Specialized cleaning for windows and glass surfaces, leaving them streak-free.",
+        "feature": "Incorporates specialized tools for high-rise window cleaning."
+    },
+    {
+        "service_name": "Deep Cleaning",
+        "price": 67,
+        "short_description": "Comprehensive cleaning service for properties before or after moving.",
+        "feature": "Includes disposal of unwanted items and debris."
+    },
+    {
+        "service_name": "Regular Cleaning",
+        "price": 200,
+        "short_description": "Customized cleaning solutions for maintaining a clean and hygienic office environment.",
+        "feature": "Regular quality checks to ensure high standards are maintained."
+    },
+    {
+        "service_name": "Regular Cleaning",
+        "price": 300,
+        "short_description": "Thorough cleaning and disinfection of bathrooms and sanitary ware.",
+        "feature": "Uses specialized antibacterial cleaning agents for hygiene."
+    },
+    {
+        "service_name": "Kitchen Cleaning",
+        "price": 150,
+        "short_description": "Deep cleaning of kitchen surfaces, appliances, and cabinets.",
+        "feature": "Focuses on removing grease and stubborn stains from kitchen areas."
+    },
+    {
+        "service_name": "Kitchen Cleaning",
+        "price": 58,
+        "short_description": "Pre and post-event cleaning for venues and spaces.",
+        "feature": "Quick and efficient cleaning to ensure a pristine event environment."
+    },
+    {
+        "service_name": "Kitchen Cleaning",
+        "price": 48,
+        "short_description": "Cleaning and stain removal for sofas, chairs, and other upholstery.",
+        "feature": "Utilizes specialized equipment for delicate fabric cleaning."
+    },
+    {
+        "service_name": "Drapery Cleaning",
+        "price": 698,
+        "short_description": "Professional cleaning for curtains and drapes.",
+        "feature": "Gentle cleaning methods to preserve fabric quality and texture."
+    },
+    {
+        "service_name": "Drapery Cleaning",
+        "price": 845,
+        "short_description": "Thorough cleaning after construction or renovation projects.",
+        "feature": "Removal of construction debris and dust for a clean and habitable space."
+    },
+    {
+        "service_name": "Drapery Cleaning",
+        "price": 145,
+        "short_description": "Professional disinfection services for homes and businesses.",
+        "feature": "Uses hospital-grade disinfectants for thorough sanitization."
+    },
+    {
+        "service_name": "Drapery Cleaning",
+        "price": 845,
+        "short_description": "Removal of debris and blockages from gutters and downspouts.",
+        "feature": "Ensures smooth water flow and prevents water damage to the property."
+    },
+    {
+        "service_name": "Commercial Kitchen Cleaning",
+        "price": 526,
+        "short_description": "Thorough cleaning for commercial kitchen equipment and surfaces.",
+        "feature": "Follows industry standards for food safety and hygiene."
+    },
+    {
+        "service_name": "Commercial Kitchen Cleaning",
+        "price": 59,
+        "short_description": "Polishing and restoration services for wooden furniture.",
+        "feature": "Uses high-quality polishes and protective coatings for long-lasting results."
+    },
+    {
+        "service_name": "Commercial Kitchen Cleaning",
+        "price": 4521,
+        "short_description": "Cleaning and maintenance of various types of flooring.",
+        "feature": "Specialized treatments for different floor materials to preserve shine and quality."
+    },
+    {
+        "service_name": "Mold Remediation",
+        "price": 241,
+        "short_description": "Professional removal and treatment of mold infestations.",
+        "feature": "Includes thorough inspection and treatment of affected areas to prevent recurrence."
+    },
+    {
+        "service_name": "Mold Remediation",
+        "price": 253,
+        "short_description": "Environmentally friendly cleaning using sustainable practices.",
+        "feature": "Uses certified green cleaning products for reduced environmental impact."
+    },
+    {
+        "service_name": "Regular Cleaning",
+        "price": 45,
+        "short_description": "Standard cleaning service for homes and offices.",
+        "feature": "Flexible scheduling options available."
+    },
+    {
+        "service_name": "Deep Cleaning",
+        "price": 50,
+        "short_description": "Thorough cleaning including hard-to-reach areas and intensive scrubbing.",
+        "feature": "Uses eco-friendly and non-toxic cleaning products."
+    },
+    {
+        "service_name": "Deep Cleaning",
+        "price": 55,
+        "short_description": "Professional cleaning for carpets, removing tough stains and dirt.",
+        "feature": "Utilizes steam cleaning for a deeper and more effective cleanse."
+    },
+    {
+        "service_name": "Regular Cleaning",
+        "price": 60,
+        "short_description": "Specialized cleaning for windows and glass surfaces, leaving them streak-free.",
+        "feature": "Incorporates specialized tools for high-rise window cleaning."
+    },
+    {
+        "service_name": "Deep Cleaning",
+        "price": 67,
+        "short_description": "Comprehensive cleaning service for properties before or after moving.",
+        "feature": "Includes disposal of unwanted items and debris."
+    },
+    {
+        "service_name": "Regular Cleaning",
+        "price": 200,
+        "short_description": "Customized cleaning solutions for maintaining a clean and hygienic office environment.",
+        "feature": "Regular quality checks to ensure high standards are maintained."
+    },
+    {
+        "service_name": "Regular Cleaning",
+        "price": 300,
+        "short_description": "Thorough cleaning and disinfection of bathrooms and sanitary ware.",
+        "feature": "Uses specialized antibacterial cleaning agents for hygiene."
+    },
+    {
+        "service_name": "Kitchen Cleaning",
+        "price": 150,
+        "short_description": "Deep cleaning of kitchen surfaces, appliances, and cabinets.",
+        "feature": "Focuses on removing grease and stubborn stains from kitchen areas."
+    },
+    {
+        "service_name": "Kitchen Cleaning",
+        "price": 58,
+        "short_description": "Pre and post-event cleaning for venues and spaces.",
+        "feature": "Quick and efficient cleaning to ensure a pristine event environment."
+    },
+    {
+        "service_name": "Kitchen Cleaning",
+        "price": 48,
+        "short_description": "Cleaning and stain removal for sofas, chairs, and other upholstery.",
+        "feature": "Utilizes specialized equipment for delicate fabric cleaning."
+    },
+    {
+        "service_name": "Drapery Cleaning",
+        "price": 698,
+        "short_description": "Professional cleaning for curtains and drapes.",
+        "feature": "Gentle cleaning methods to preserve fabric quality and texture."
+    },
+    {
+        "service_name": "Drapery Cleaning",
+        "price": 845,
+        "short_description": "Thorough cleaning after construction or renovation projects.",
+        "feature": "Removal of construction debris and dust for a clean and habitable space."
+    },
+    {
+        "service_name": "Drapery Cleaning",
+        "price": 145,
+        "short_description": "Professional disinfection services for homes and businesses.",
+        "feature": "Uses hospital-grade disinfectants for thorough sanitization."
+    },
+    {
+        "service_name": "Drapery Cleaning",
+        "price": 845,
+        "short_description": "Removal of debris and blockages from gutters and downspouts.",
+        "feature": "Ensures smooth water flow and prevents water damage to the property."
+    },
+    {
+        "service_name": "Commercial Kitchen Cleaning",
+        "price": 526,
+        "short_description": "Thorough cleaning for commercial kitchen equipment and surfaces.",
+        "feature": "Follows industry standards for food safety and hygiene."
+    },
+    {
+        "service_name": "Commercial Kitchen Cleaning",
+        "price": 59,
+        "short_description": "Polishing and restoration services for wooden furniture.",
+        "feature": "Uses high-quality polishes and protective coatings for long-lasting results."
+    },
+    {
+        "service_name": "Commercial Kitchen Cleaning",
+        "price": 4521,
+        "short_description": "Cleaning and maintenance of various types of flooring.",
+        "feature": "Specialized treatments for different floor materials to preserve shine and quality."
+    },
+    {
+        "service_name": "Mold Remediation",
+        "price": 241,
+        "short_description": "Professional removal and treatment of mold infestations.",
+        "feature": "Includes thorough inspection and treatment of affected areas to prevent recurrence."
+    },
+    {
+        "service_name": "Mold Remediation",
+        "price": 253,
+        "short_description": "Environmentally friendly cleaning using sustainable practices.",
+        "feature": "Uses certified green cleaning products for reduced environmental impact."
+    }
+]
